@@ -1,0 +1,6 @@
+server:
+  port: 9010
+spring:
+  data:
+    solr:
+      host: http://localhost:8080/solr

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/solr_lean.iml" filepath="$PROJECT_DIR$/.idea/solr_lean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr_solrJ/solr_solrJ.iml" filepath="$PROJECT_DIR$/solr_solrJ/solr_solrJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solr_tokenizer_filter/solr_tokenizer_filter.iml" filepath="$PROJECT_DIR$/solr_tokenizer_filter/solr_tokenizer_filter.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="287ad8f5-fbcd-4740-973f-32f4123fe4b8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/custom_tokenizer/target/" />
+    <ignored path="$PROJECT_DIR$/solr_tokenizer_filter/target/" />
+    <ignored path="$PROJECT_DIR$/solr_solrJ/target/" />
+    <ignored path="$PROJECT_DIR$/solr_solrJ_other/target/" />
+    <ignored path="$PROJECT_DIR$/custom_function/target/" />
+    <ignored path="$PROJECT_DIR$/nested_document/target/" />
+    <ignored path="$PROJECT_DIR$/springdata_solr/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="343813343">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="29" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="154" />
+          <entry key="xml" value="32" />
+          <entry key="yml" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="154" />
+          <entry key="XML" value="32" />
+          <entry key="YAML" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="19" />
+          <entry key="java" value="17559" />
+          <entry key="xml" value="130" />
+          <entry key="yml" value="125" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="17559" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="XML" value="130" />
+          <entry key="YAML" value="125" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>serD</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/solr_tokenizer_filter/src/main/java/cn/itcast/analyzer/MyAnalyzer.java" />
+        <option value="$PROJECT_DIR$/solr_tokenizer_filter/src/main/java/cn/itcast/analyzer/PlusAnalyzer.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ/src/test/java/cn/itcast/Test01.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ/pom.xml" />
+        <option value="$PROJECT_DIR$/solr_solrJ/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/solr_solrJ/src/main/java/cn/itcast/Application.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ/src/test/java/cn/itcast/Test02.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ/src/test/java/cn/itcast/Test03.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ/src/test/java/cn/itcast/Test04.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test01.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test02.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test03.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test04.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test05.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test06.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test07.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/main/java/cn/itcast/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/pom.xml" />
+        <option value="$PROJECT_DIR$/solr_solrJ_other/src/main/java/cn/itcast/Application.java" />
+        <option value="$PROJECT_DIR$/custom_function/src/main/java/cn/itcast/customfuncation/ConcatValueSourceParser.java" />
+        <option value="$PROJECT_DIR$/custom_function/src/main/java/cn/itcast/customfuncation/ConcatValueSource.java" />
+        <option value="$PROJECT_DIR$/custom_function/pom.xml" />
+        <option value="$PROJECT_DIR$/custom_function/src/main/java/cn/itcast/funcation/ConcatValueSourceParser.java" />
+        <option value="$PROJECT_DIR$/custom_function/src/main/java/cn/itcast/funcation/ConcatValueSource.java" />
+        <option value="$PROJECT_DIR$/nested_document/src/test/java/cn/itcast/AppTest.java" />
+        <option value="$PROJECT_DIR$/nested_document/pom.xml" />
+        <option value="$PROJECT_DIR$/nested_document/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/pojo/Dept.java" />
+        <option value="$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/dao/DeptDao.java" />
+        <option value="$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/dao/EmpDao.java" />
+        <option value="$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/Application.java" />
+        <option value="$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/pojo/Emp.java" />
+        <option value="$PROJECT_DIR$/nested_document/src/test/java/cn/itcast/Test01.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/pom.xml" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/main/java/cn/itcast/Application.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/Test01.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/Test2.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestIndex.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestBaseQuery.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/Test4.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/Test3.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/Test02.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestGroupQuery.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestHighLightingQuery.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TesSpellChecking.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestFacetQuery.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/main/java/cn/itcast/pojo/Item.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/main/java/cn/itcast/pojo/Emp.java" />
+        <option value="$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestJoinQuery.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/javasoft/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\javasoft\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springdata_solr" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springdata_solr" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="width" value="1938" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solr_lean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solr_lean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solr_lean" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solr_lean" type="462c0819:PsiDirectoryNode" />
+              <item name="springdata_solr" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="SolrIN&#9;FILE&#9;jar://D:/repository_pinyougou/org/apache/solr/solr-solrj/7.7.2/solr-solrj-7.7.2-sources.jar!/org/apache/solr/common/SolrInputDocument.java&#10;SolrD&#9;FILE&#9;jar://D:/repository_pinyougou/org/apache/solr/solr-solrj/7.7.2/solr-solrj-7.7.2-sources.jar!/org/apache/solr/common/SolrDocument.java&#10;LengthF&#9;FILE&#9;jar://D:/repository_pinyougou/org/apache/lucene/lucene-analyzers-common/7.7.2/lucene-analyzers-common-7.7.2.jar!/org/apache/lucene/analysis/miscellaneous/LengthFilter.class&#10;LengthFilter&#9;PSI&#9;JAVA://org.apache.lucene.analysis.miscellaneous.LengthFilter" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588842750607" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_projects\solr_lean\nested_document\src\main\java\cn\itcast\pojo" />
+      <recent name="D:\idea_projects\solr_lean\nested_document\src\main\resources" />
+      <recent name="D:\idea_projects\solr_lean" />
+      <recent name="D:\idea_projects\solr_lean\solr_solrJ\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestJoinQuery.testJoinQuery">
+    <configuration name="TesSpellChecking.testSpellChecking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdata_solr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.TesSpellChecking" />
+      <option name="METHOD_NAME" value="testSpellChecking" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdata_solr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.Test02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGroupQuery.basicGroupQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdata_solr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.TestGroupQuery" />
+      <option name="METHOD_NAME" value="basicGroupQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHighLightingQuery.testHighLightingQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdata_solr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.TestHighLightingQuery" />
+      <option name="METHOD_NAME" value="testHighLightingQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJoinQuery.testJoinQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdata_solr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.TestJoinQuery" />
+      <option name="METHOD_NAME" value="testJoinQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="solr_solrJ_other" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="JUnit.TestGroupQuery.basicGroupQuery" />
+      <item itemvalue="JUnit.Test02.test01" />
+      <item itemvalue="JUnit.TestHighLightingQuery.testHighLightingQuery" />
+      <item itemvalue="JUnit.TesSpellChecking.testSpellChecking" />
+      <item itemvalue="JUnit.TestJoinQuery.testJoinQuery" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestJoinQuery.testJoinQuery" />
+        <item itemvalue="JUnit.TesSpellChecking.testSpellChecking" />
+        <item itemvalue="JUnit.TestHighLightingQuery.testHighLightingQuery" />
+        <item itemvalue="JUnit.TestGroupQuery.basicGroupQuery" />
+        <item itemvalue="JUnit.Test02.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="287ad8f5-fbcd-4740-973f-32f4123fe4b8" name="Default Changelist" comment="" />
+      <created>1583838386512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583838386512</updated>
+      <workItem from="1583838390253" duration="11000" />
+      <workItem from="1583839042467" duration="5949000" />
+      <workItem from="1583886938941" duration="41000" />
+      <workItem from="1584149979725" duration="4912000" />
+      <workItem from="1587168097556" duration="4040000" />
+      <workItem from="1587173659118" duration="14514000" />
+      <workItem from="1587269006264" duration="18468000" />
+      <workItem from="1587339246057" duration="3022000" />
+      <workItem from="1587388832373" duration="4965000" />
+      <workItem from="1587425931684" duration="1899000" />
+      <workItem from="1587427876274" duration="33000" />
+      <workItem from="1587444124988" duration="2814000" />
+      <workItem from="1587448073988" duration="43000" />
+      <workItem from="1587465103207" duration="4607000" />
+      <workItem from="1587516580998" duration="177000" />
+      <workItem from="1587823368828" duration="3742000" />
+      <workItem from="1587900419735" duration="1680000" />
+      <workItem from="1587910848073" duration="632000" />
+      <workItem from="1588067450931" duration="7000" />
+      <workItem from="1588207854222" duration="34000" />
+      <workItem from="1588294898374" duration="5399000" />
+      <workItem from="1588331825175" duration="5313000" />
+      <workItem from="1588476029906" duration="18520000" />
+      <workItem from="1588552911954" duration="310000" />
+      <workItem from="1588588599888" duration="13651000" />
+      <workItem from="1588639219339" duration="336000" />
+      <workItem from="1588653198766" duration="1359000" />
+      <workItem from="1588675968077" duration="11402000" />
+      <workItem from="1588725987445" duration="43000" />
+      <workItem from="1588771926244" duration="599000" />
+      <workItem from="1588774704116" duration="11585000" />
+      <workItem from="1589035068302" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TesSpellChecking_testSpellChecking - 2020.05.06 at 23h 15m 19s.xml">
+      <configuration name="TesSpellChecking.testSpellChecking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TesSpellChecking_testSpellChecking - 2020.05.06 at 23h 33m 43s.xml">
+      <configuration name="TesSpellChecking.testSpellChecking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TesSpellChecking_testSpellChecking - 2020.05.07 at 10h 21m 41s.xml">
+      <configuration name="TesSpellChecking.testSpellChecking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJoinQuery_testJoinQuery - 2020.05.07 at 11h 14m 54s.xml">
+      <configuration name="TestJoinQuery.testJoinQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJoinQuery_testJoinQuery - 2020.05.07 at 11h 15m 04s.xml">
+      <configuration name="TestJoinQuery.testJoinQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJoinQuery_testJoinQuery - 2020.05.07 at 11h 16m 24s.xml">
+      <configuration name="TestJoinQuery.testJoinQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJoinQuery_testJoinQuery - 2020.05.07 at 11h 16m 42s.xml">
+      <configuration name="TestJoinQuery.testJoinQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJoinQuery_testJoinQuery - 2020.05.07 at 11h 19m 32s.xml">
+      <configuration name="TestJoinQuery.testJoinQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJoinQuery_testJoinQuery - 2020.05.07 at 11h 20m 18s.xml">
+      <configuration name="TestJoinQuery.testJoinQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJoinQuery_testJoinQuery - 2020.05.07 at 11h 46m 21s.xml">
+      <configuration name="TestJoinQuery.testJoinQuery" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="140242000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1292" height="696" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24068071" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918962" weight="0.19929454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30335096" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008104" side_tool="true" weight="0.58906525" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.012345679" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32983023" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.3298217" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/7.7.2/solr-solrj-7.7.2-sources.jar!/org/apache/solr/common/MapSerializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ/src/test/java/cn/itcast/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/7.7.2/solr-solrj-7.7.2-sources.jar!/org/apache/solr/client/solrj/impl/CloudSolrClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="103" column="13" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/src/test/java/cn/itcast/Test07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/src/main/java/cn/itcast/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/src/main/java/cn/itcast/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/7.7.2/lucene-queries-7.7.2.jar!/org/apache/lucene/queries/function/ValueSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_function/custom_function.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_solrJ_other/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solr_tokenizer_filter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_function/src/main/java/cn/itcast/customfuncation/ConcatValueSource.java" />
+    <entry file="file://$PROJECT_DIR$/custom_function/src/main/java/cn/itcast/customfuncation/ConcatValueSourceParser.java" />
+    <entry file="file://$PROJECT_DIR$/custom_function/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_function/src/main/java/cn/itcast/funcation/ConcatValueSourceParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_function/src/main/java/cn/itcast/funcation/ConcatValueSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/pojo/Item.java" />
+    <entry file="file://$PROJECT_DIR$/nested_document/src/test/java/cn/itcast/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/nested_document/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_document/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/pojo/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/dao/EmpDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_document/src/main/java/cn/itcast/pojo/Emp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" selection-start-line="8" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nested_document/src/test/java/cn/itcast/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/7.7.2/solr-solrj-7.7.2-sources.jar!/org/apache/solr/common/SolrDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/7.7.2/solr-solrj-7.7.2-sources.jar!/org/apache/solr/common/SolrInputDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/main/java/cn/itcast/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-solr/4.0.12.RELEASE/spring-data-solr-4.0.12.RELEASE-sources.jar!/org/springframework/data/solr/core/query/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-solr/4.0.12.RELEASE/spring-data-solr-4.0.12.RELEASE-sources.jar!/org/springframework/data/solr/core/query/SolrDataQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-solr/4.0.12.RELEASE/spring-data-solr-4.0.12.RELEASE-sources.jar!/org/springframework/data/solr/core/query/FacetOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="560" column="33" selection-start-line="560" selection-start-column="33" selection-end-line="560" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/Test02.java" />
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestHighLightingQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestGroupQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestBaseQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-solr/4.0.12.RELEASE/spring-data-solr-4.0.12.RELEASE-sources.jar!/org/springframework/data/solr/core/query/SpellcheckOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TesSpellChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestFacetQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/main/java/cn/itcast/pojo/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/main/java/cn/itcast/pojo/Emp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_solr/src/test/java/cn/itcast/TestJoinQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>solr_lean</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.carrotsearch:hppc:0.8.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/solr_solrJ_other" />
+    <option value="clean package -DskipTests=true" />
+  </component>
+</project>

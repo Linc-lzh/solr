@@ -1,0 +1,13 @@
+server:
+  port: 9009
+
+spring:
+  data:
+    solr:
+      host: http://localhost:8080/solr
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/lucene?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: 123
